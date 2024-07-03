@@ -9,4 +9,5 @@ MAIN CONFIGURATIONS:
     ESlint installed;
     prettier installed
     eslint-config-prettier configured (manages the conflicts between eslint and prettier);
-    
+
+To enable ES6 import statement with jest: https://jestjs.io/docs/getting-started#using-babel;
